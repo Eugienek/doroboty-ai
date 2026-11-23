@@ -2,7 +2,7 @@
   "source": "https://github.com/superhero-tech/superhero-skills",
   "path": "plugins/product-discovery/skills",
   "ref": "main",
-  "commit": "b5e04748e130077dc6e0ea39f9cedb9e3518da0d",
+  "commit": "22063c46bb3f1f5d7158e7152c08bdb67351abb7",
   "license": "MIT (see .claude/skills/SUPERHERO-SKILLS-LICENSE)",
   "targets": [
     ".claude/skills",
